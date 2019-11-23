@@ -1,2 +1,2 @@
 # leetCodeSolutions
-Solutions to leetcode challenges
+Solutions to leetcode challenges in Javascript language.
